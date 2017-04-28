@@ -1,0 +1,16 @@
+{
+  "name": "lambda-process-json",
+  "version": "0.0.1",
+  "description": "Processes JSON from S3 buckets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcelo Alves",
+  "homepage": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.3.0",
+    "aws-sdk": "^2.46.0"
+  }
+}
